@@ -26,10 +26,8 @@ using pyinstaller we have created a stand-alone application
 
 # Files and folders
 
-•	Fmoodanalyser.py: 
+•	Final.py: 
             A file that contain the main program for the desktop application-All functions required to build front end and the code for the backend i . e api for tone analyser ,for retrieving tweets from twitter ,analysing the sentiments and getting prominent  emotion and for taking proper action according to emotions i.e showing the person name with a massage name showing feeling and suggesting him to click on play button to play on the you tube playlist. As the user click play the you tube with apt music playlist will be open in the default web browser .   
-
-• Fmoodanalyser.exe	: The file used for setting uo stand alone file.
 
 .    Undertaking:undertaking for orignality.
 
@@ -41,5 +39,5 @@ using pyinstaller we have created a stand-alone application
 
 .New_project.mp4: Demo video of project.
 
-.Helpwithmymood.pptx: PPT of project.
+.Helpwiththemood.pptx: PPT of project.
 
