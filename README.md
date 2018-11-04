@@ -1,4 +1,4 @@
-# helpmewiththemood
+# helpwiththemood
      helpmewiththemood is a desktop application that detects 7 tones which are most commonly used to detect the tone of written text. These are: anger, fear, joy, sadness, confident, analytical, and tentative using IBM WATSON tone analyser services and tweeter API. Then play the music playlist on YOUTUBE apt for the person.
 
 # Prerequisites
